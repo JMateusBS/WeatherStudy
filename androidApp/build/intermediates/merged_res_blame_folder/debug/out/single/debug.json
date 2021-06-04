@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\KMMStudy\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
+        "source": "C:\\KMMStudy\\androidApp\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\KMMStudy\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_create.xml.flat",
+        "source": "C:\\KMMStudy\\androidApp\\src\\main\\res\\drawable\\ic_create.xml"
+    },
+    {
+        "merged": "C:\\KMMStudy\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_weather_row_layout.xml.flat",
+        "source": "C:\\KMMStudy\\androidApp\\src\\main\\res\\layout\\weather_row_layout.xml"
+    },
+    {
+        "merged": "C:\\KMMStudy\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_fragment_forecast.xml.flat",
+        "source": "C:\\KMMStudy\\androidApp\\src\\main\\res\\layout\\fragment_forecast.xml"
+    },
+    {
+        "merged": "C:\\KMMStudy\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_fragment_weather.xml.flat",
+        "source": "C:\\KMMStudy\\androidApp\\src\\main\\res\\layout\\fragment_weather.xml"
+    },
+    {
+        "merged": "C:\\KMMStudy\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_open.xml.flat",
+        "source": "C:\\KMMStudy\\androidApp\\src\\main\\res\\drawable\\ic_open.xml"
+    },
+    {
+        "merged": "C:\\KMMStudy\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete.xml.flat",
+        "source": "C:\\KMMStudy\\androidApp\\src\\main\\res\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\KMMStudy\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_save.xml.flat",
+        "source": "C:\\KMMStudy\\androidApp\\src\\main\\res\\drawable\\ic_save.xml"
+    },
+    {
+        "merged": "C:\\KMMStudy\\androidApp\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\KMMStudy\\androidApp\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\KMMStudy\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_water_droplet_silhouette.xml.flat",
+        "source": "C:\\KMMStudy\\androidApp\\src\\main\\res\\drawable\\ic_water_droplet_silhouette.xml"
+    },
+    {
+        "merged": "C:\\KMMStudy\\androidApp\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\KMMStudy\\androidApp\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\KMMStudy\\androidApp\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\KMMStudy\\androidApp\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\KMMStudy\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_week.xml.flat",
+        "source": "C:\\KMMStudy\\androidApp\\src\\main\\res\\drawable\\ic_week.xml"
+    },
+    {
+        "merged": "C:\\KMMStudy\\androidApp\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cloud.xml.flat",
+        "source": "C:\\KMMStudy\\androidApp\\src\\main\\res\\drawable\\ic_cloud.xml"
+    }
+]

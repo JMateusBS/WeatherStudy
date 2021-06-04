@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\KMMStudy\\androidApp\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\weather_row_layout.xml",
+        "source": "C:\\KMMStudy\\androidApp\\src\\main\\res\\layout\\weather_row_layout.xml"
+    },
+    {
+        "merged": "C:\\KMMStudy\\androidApp\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_forecast.xml",
+        "source": "C:\\KMMStudy\\androidApp\\src\\main\\res\\layout\\fragment_forecast.xml"
+    },
+    {
+        "merged": "C:\\KMMStudy\\androidApp\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_weather.xml",
+        "source": "C:\\KMMStudy\\androidApp\\src\\main\\res\\layout\\fragment_weather.xml"
+    },
+    {
+        "merged": "C:\\KMMStudy\\androidApp\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\KMMStudy\\androidApp\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

@@ -1,0 +1,96 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.project.KMMStudy"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\KMMStudy\androidApp\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\KMMStudy\androidApp\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\KMMStudy\androidApp\src\main\AndroidManifest.xml:4:5-67
+11-->C:\KMMStudy\androidApp\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\KMMStudy\androidApp\src\main\AndroidManifest.xml:5:5-79
+12-->C:\KMMStudy\androidApp\src\main\AndroidManifest.xml:5:22-76
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->C:\KMMStudy\androidApp\src\main\AndroidManifest.xml:6:5-81
+13-->C:\KMMStudy\androidApp\src\main\AndroidManifest.xml:6:22-78
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->C:\KMMStudy\androidApp\src\main\AndroidManifest.xml:7:5-79
+14-->C:\KMMStudy\androidApp\src\main\AndroidManifest.xml:7:22-76
+15    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+15-->C:\KMMStudy\androidApp\src\main\AndroidManifest.xml:8:5-85
+15-->C:\KMMStudy\androidApp\src\main\AndroidManifest.xml:8:22-82
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+18    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+19
+20    <application
+20-->C:\KMMStudy\androidApp\src\main\AndroidManifest.xml:10:5-22:19
+21        android:allowBackup="false"
+21-->C:\KMMStudy\androidApp\src\main\AndroidManifest.xml:11:13-40
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.3.2] C:\Users\jmate\.gradle\caches\transforms-2\files-2.1\b9d721465650bdc756acbeffb4604ada\core-1.3.2\AndroidManifest.xml:24:18-86
+23        android:debuggable="true"
+24        android:extractNativeLibs="false"
+25        android:label="@string/title"
+25-->C:\KMMStudy\androidApp\src\main\AndroidManifest.xml:13:13-42
+26        android:supportsRtl="true"
+26-->C:\KMMStudy\androidApp\src\main\AndroidManifest.xml:12:13-39
+27        android:theme="@style/AppTheme" >
+27-->C:\KMMStudy\androidApp\src\main\AndroidManifest.xml:14:13-44
+28        <activity android:name="com.project.androidApp.ui.MainActivity" >
+28-->C:\KMMStudy\androidApp\src\main\AndroidManifest.xml:15:9-21:20
+28-->C:\KMMStudy\androidApp\src\main\AndroidManifest.xml:15:19-50
+29            <intent-filter>
+29-->C:\KMMStudy\androidApp\src\main\AndroidManifest.xml:17:13-20:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->C:\KMMStudy\androidApp\src\main\AndroidManifest.xml:18:17-68
+30-->C:\KMMStudy\androidApp\src\main\AndroidManifest.xml:18:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->C:\KMMStudy\androidApp\src\main\AndroidManifest.xml:19:17-76
+32-->C:\KMMStudy\androidApp\src\main\AndroidManifest.xml:19:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity android:name="com.vmadalin.easypermissions.components.TestActivity" />
+35-->[com.vmadalin:easypermissions-ktx:1.0.0] C:\Users\jmate\.gradle\caches\transforms-2\files-2.1\13156bcd84d9ca94cfbc65e163d264f1\easypermissions-ktx-1.0.0\AndroidManifest.xml:13:9-89
+35-->[com.vmadalin:easypermissions-ktx:1.0.0] C:\Users\jmate\.gradle\caches\transforms-2\files-2.1\13156bcd84d9ca94cfbc65e163d264f1\easypermissions-ktx-1.0.0\AndroidManifest.xml:13:19-86
+36        <activity android:name="com.vmadalin.easypermissions.components.TestAppCompatActivity" />
+36-->[com.vmadalin:easypermissions-ktx:1.0.0] C:\Users\jmate\.gradle\caches\transforms-2\files-2.1\13156bcd84d9ca94cfbc65e163d264f1\easypermissions-ktx-1.0.0\AndroidManifest.xml:14:9-98
+36-->[com.vmadalin:easypermissions-ktx:1.0.0] C:\Users\jmate\.gradle\caches\transforms-2\files-2.1\13156bcd84d9ca94cfbc65e163d264f1\easypermissions-ktx-1.0.0\AndroidManifest.xml:14:19-95
+37        <activity android:name="com.vmadalin.easypermissions.components.TestSupportFragmentActivity" />
+37-->[com.vmadalin:easypermissions-ktx:1.0.0] C:\Users\jmate\.gradle\caches\transforms-2\files-2.1\13156bcd84d9ca94cfbc65e163d264f1\easypermissions-ktx-1.0.0\AndroidManifest.xml:15:9-104
+37-->[com.vmadalin:easypermissions-ktx:1.0.0] C:\Users\jmate\.gradle\caches\transforms-2\files-2.1\13156bcd84d9ca94cfbc65e163d264f1\easypermissions-ktx-1.0.0\AndroidManifest.xml:15:19-101
+38
+39        <provider
+39-->[com.squareup.picasso:picasso:2.71828] C:\Users\jmate\.gradle\caches\transforms-2\files-2.1\ee3f8b139425c90acd28347205bc8c86\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+40            android:name="com.squareup.picasso.PicassoProvider"
+40-->[com.squareup.picasso:picasso:2.71828] C:\Users\jmate\.gradle\caches\transforms-2\files-2.1\ee3f8b139425c90acd28347205bc8c86\picasso-2.71828\AndroidManifest.xml:9:13-64
+41            android:authorities="com.project.KMMStudy.com.squareup.picasso"
+41-->[com.squareup.picasso:picasso:2.71828] C:\Users\jmate\.gradle\caches\transforms-2\files-2.1\ee3f8b139425c90acd28347205bc8c86\picasso-2.71828\AndroidManifest.xml:10:13-72
+42            android:exported="false" />
+42-->[com.squareup.picasso:picasso:2.71828] C:\Users\jmate\.gradle\caches\transforms-2\files-2.1\ee3f8b139425c90acd28347205bc8c86\picasso-2.71828\AndroidManifest.xml:11:13-37
+43
+44        <activity
+44-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\jmate\.gradle\caches\transforms-2\files-2.1\f6eaa77fb772e5e340944eb6f7667cb0\play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+45            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+45-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\jmate\.gradle\caches\transforms-2\files-2.1\f6eaa77fb772e5e340944eb6f7667cb0\play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+46            android:exported="false"
+46-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\jmate\.gradle\caches\transforms-2\files-2.1\f6eaa77fb772e5e340944eb6f7667cb0\play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+47            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+47-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\jmate\.gradle\caches\transforms-2\files-2.1\f6eaa77fb772e5e340944eb6f7667cb0\play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+48
+49        <meta-data
+49-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\jmate\.gradle\caches\transforms-2\files-2.1\3474b8312142a94660361eec785322d4\play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+50            android:name="com.google.android.gms.version"
+50-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\jmate\.gradle\caches\transforms-2\files-2.1\3474b8312142a94660361eec785322d4\play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
+51            android:value="@integer/google_play_services_version" />
+51-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\jmate\.gradle\caches\transforms-2\files-2.1\3474b8312142a94660361eec785322d4\play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+52    </application>
+53
+54</manifest>

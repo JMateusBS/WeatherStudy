@@ -1,0 +1,24 @@
+com/project/androidApp/DataBindingTriggerClass.java
+ com.project.androidApp.DataBindingTriggerClass
+com/project/androidApp/databinding/FragmentForecastBinding.java
+ com.project.androidApp.databinding.FragmentForecastBinding
+com/project/androidApp/databinding/WeatherRowLayoutBinding.java
+ com.project.androidApp.databinding.WeatherRowLayoutBinding
+com/project/androidApp/BuildConfig.java
+ com.project.androidApp.BuildConfig
+com/project/androidApp/DataBinderMapperImpl.java
+ com.project.androidApp.DataBinderMapperImpl
+ com.project.androidApp.DataBinderMapperImpl$InnerBrLookup
+ com.project.androidApp.DataBinderMapperImpl$InnerLayoutIdLookup
+com/project/androidApp/databinding/FragmentWeatherBinding.java
+ com.project.androidApp.databinding.FragmentWeatherBinding
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/project/androidApp/BR.java
+ com.project.androidApp.BR
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/project/androidApp/databinding/ActivityMainBinding.java
+ com.project.androidApp.databinding.ActivityMainBinding
